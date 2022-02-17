@@ -17,3 +17,12 @@
 {
 font-size: 22px;
 }
+h4{
+    background-color: white;
+    line-height:  2;
+    margin: 0px;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
